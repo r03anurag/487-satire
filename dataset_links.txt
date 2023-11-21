@@ -1,0 +1,5 @@
+https://huggingface.co/datasets/phosseini/multimodal_satire
+https://www.kaggle.com/datasets/undefinenull/satirical-news-from-the-onion
+https://www.kaggle.com/datasets/danofer/sarcasm
+https://huggingface.co/datasets/reza-alipour/SARC_Sarcasm
+https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection/data 
