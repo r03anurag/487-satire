@@ -38,7 +38,7 @@ Being able to distinguish satire from genuine news will improve a language model
 
 ### Using the Code
 
-* The ```main.ipynb``` file is set up in a way that you can run all components of the process sequentially. Refer to this file for instructions
+* The ```main.ipynb``` file is set up in a way that you can run all components of the process sequentially. Refer to this file for instructions.
 * As previously stated, if you want to replicate our exact results, uncomment the line of code mentioned above.
 * ```prepare_data.py``` is the script that is responsible for extracting useful information from raw data. You can modify this file to use whatever datasets you want, import new datasets and/or libraries, and change how undersampling/oversampling is done. Currently, we undersample non-satirical data to balance our dataset, but this may change depending on which data you use.
 ## Authors
